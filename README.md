@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **suvajitghosh7718@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/suvaj/Desktop/Suvajit%20Ghosh_BWU_BTS_20_133_.pdf](file:///C:/Users/suvaj/Desktop/Suvajit%20Ghosh_BWU_BTS_20_133_.pdf)
+- 📄 Know about my experiences [https://gray-shaylah-78.tiiny.site](https://gray-shaylah-78.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
