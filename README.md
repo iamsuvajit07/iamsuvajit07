@@ -1,4 +1,12 @@
-<h2 align="left">Hi 👋! I am Suvajit Ghosh </h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iamsuvajit07.iamsuvajit07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suvajit+Ghosh!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from India</h3>
+
+<br/>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/6meqyZaG) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamsuvajit07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamsuvajit07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imasuvajit07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SUVAJIT92583048) 
