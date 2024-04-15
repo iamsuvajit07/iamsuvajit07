@@ -41,7 +41,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   
-  ![snake gif](https://github.com/iamsuvajit07/iamsuvajito7/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/iamsuvajit07/iamsuvajit07/blob/output/github-contribution-grid-snake-dark.svg)
   
   <br/><br/><br/>
 </div>
