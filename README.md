@@ -40,7 +40,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img src="https://github.com/iamsuvajit07/iamsuvajit07/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/iamsuvajit07/iamsuvajit07/output/snake.svg" alt="Snake animation" />
   
   <br/><br/><br/>
 </div>
