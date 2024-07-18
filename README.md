@@ -30,7 +30,7 @@
 
 
 ### 😂 Random Dev Meme
-<img src='[https://randommeme-five.vercel.app/](https://memeapi.zachl.tech/pic/html)' style="height: 400px;"/>
+<img src='https://memeapi.zachl.tech/pic/html' style="height: 400px;"/>
 <!--https://web-production-4cea.up.railway.app/-->
 
 <img src="https://random-xkcd-url.glitch.me/random-xkcd" alt="A programming comic" />
