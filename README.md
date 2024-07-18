@@ -30,10 +30,7 @@
 
 
 ### 😂 Random Dev Meme
-<video width="320" height="240" controls>
-  <source src="https://memeapi.zachl.tech/pic/html" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 <!--https://web-production-4cea.up.railway.app/-->
 
 <img src="https://random-xkcd-url.glitch.me/random-xkcd" alt="A programming comic" />
