@@ -25,6 +25,7 @@
 ### ✍️ Random Dev Meme
 <img src="https://api.imgflip.com/caption_image" width="350px"/>
 <img src="https://imgur.com/random" width="350px"/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
