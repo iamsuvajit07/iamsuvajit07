@@ -23,10 +23,17 @@
 </div>
 
 ### 🤣🤣🤣 Random Dev Meme
-<div align="center">
-  <img src="https://subreddit-memes.vercel.app/api/meme" width="350px" style="margin-right:10px;"/>
-  <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme" width="350px"/>
-</div>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme&t=1" width="350" height="300"/>
+    </td>
+    <td>
+      <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme&t=2" width="350" height="300"/>
+    </td>
+  </tr>
+</table>
 <!-- <img src="https://subreddit-memes.vercel.app/api/meme" width="350px"/>
 <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme" width="350px"/> -->
 
