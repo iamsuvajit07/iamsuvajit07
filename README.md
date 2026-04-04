@@ -30,7 +30,7 @@
   <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme?t=1" width="100%"/>
       <div style="height:30px;"> Meme 2 - ↑ </div>
 </div> -->
-<img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme?x=123"/>
+<img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme"/>
 <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme?x=456"/>
 <!-- <img src="https://subreddit-memes.vercel.app/api/meme" width="350px"/>
 <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme" width="350px"/> -->
