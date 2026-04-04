@@ -34,9 +34,9 @@
 <!--https://web-production-4cea.up.railway.app/-->
 
 <img src="https://random-xkcd-url.glitch.me/random-xkcd" alt="A programming comic" />
-  <!--<object data="https://raw.githubusercontent.com/albertodeago/albertodeago/43bb68029291dc29c4be4cda4b12e5e57994b75f/xkcd-wish.png" type="image/png">
+  <object data="https://raw.githubusercontent.com/albertodeago/albertodeago/43bb68029291dc29c4be4cda4b12e5e57994b75f/xkcd-wish.png" type="image/png">
     <img src="https://random-xkcd-url.glitch.me/random-xkcd" alt="A programming comic" />
-  </object>-->
+  </object>
 
 ---
 ###
