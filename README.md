@@ -25,9 +25,7 @@
 ### 🤣🤣🤣 Random Dev Meme
 
 <div align="center" style="display:flex; flex-direction:column; gap:20px; width:100%;">
-    <a href="https://subreddit-memes.vercel.app/" target="_blank">
-      <img src="https://subreddit-memes.vercel.app/api/meme?a=1" width="100%" />
-    </a>
+    <a href="https://subreddit-memes.vercel.app/" target="_blank"> <img src="https://subreddit-memes.vercel.app/api/meme?a=1" width="100%" /> </a>
 </div>
 
 <!-- <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme"/>
