@@ -24,12 +24,8 @@
 
 ### ✍️ Random Dev Meme
 <img src="https://subreddit-memes.vercel.app/api/meme" width="350px"/>
-<img src="https://meme-api.com/gimme/programmingmemes" width="350px"/>
 <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme" width="350px"/>
-<img src="https://imgs.xkcd.com/comics/random.png" width="350px"/>
 
-### ✍️ Random Dev Meme
-<img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme" width="350px"/>
 
 
 ### ✍️ Random Dev Quote
