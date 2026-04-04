@@ -23,8 +23,14 @@
 </div>
 
 ### ✍️ Random Dev Meme
-<img src="https://api.imgflip.com/caption_image" width="350px"/>
-<img src="https://imgur.com/random" width="350px"/>
+<img src="https://subreddit-memes.vercel.app/api/meme" width="350px"/>
+<img src="https://meme-api.com/gimme/programmingmemes" width="350px"/>
+<img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme" width="350px"/>
+<img src="https://imgs.xkcd.com/comics/random.png" width="350px"/>
+
+### ✍️ Random Dev Meme
+<img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme" width="350px"/>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
