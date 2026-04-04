@@ -22,17 +22,12 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsuvajit07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
 </div>
 
-### 🤣🤣🤣 Random Dev Memes
+### 🤣🤣🤣 Random Dev Meme
 
 <div align="center" style="display:flex; flex-direction:column; gap:20px; width:100%;">
-     <a href="https://subreddit-memes.vercel.app/" target="_blank">
-  <img src="https://subreddit-memes.vercel.app/api/meme?a=2" width="100%" />
-</a>
-      <div style="height:30px;"> Meme 1 - ↑ </div>
- <a href="https://subreddit-memes.vercel.app/" target="_blank">
-  <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme" width="100%" />
-</a>
-        <div style="height:30px;"> Meme 2 - ↑ </div>
+    <a href="https://subreddit-memes.vercel.app/" target="_blank">
+      <img src="https://subreddit-memes.vercel.app/api/meme?a=1" width="100%" />
+    </a>
 </div>
 
 <!-- <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme"/>
