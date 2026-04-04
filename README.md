@@ -24,7 +24,6 @@
 
 ### 🤣🤣🤣 Random Dev Memes
 
-
 <div align="center">
 
   <a href="https://subreddit-memes.vercel.app/" target="_blank">
