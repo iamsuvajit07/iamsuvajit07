@@ -24,32 +24,27 @@
 
 ### 🤣🤣🤣 Random Dev Memes
 
-### ✍️ Random Dev Meme
 
-<div align="center" style="width:100%;">
+<div align="center">
 
   <a href="https://subreddit-memes.vercel.app/" target="_blank">
     <img src="https://subreddit-memes.vercel.app/api/meme?a=1" width="100%" />
   </a>
-
-  <div>⬆️ Meme 1</div>
-
-  <br/>
+  <p>⬆️ Meme 1</p>
 
   <a href="https://subreddit-memes.vercel.app/" target="_blank">
-    <img src="https://subreddit-memes.vercel.app/api/meme?a=2" width="100%" />
+    <img src="https://random-xkcd-url.glitch.me/random-xkcd" width="100%" />
   </a>
-
-  <div>⬆️ Meme 2</div>
+  <p>⬆️ Meme 2</p>
 
 </div>
 
 <!-- <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme"/>
 <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme?x=456"/> -->
 
-<a href="https://subreddit-memes.vercel.app/" target="_blank">
+<!-- <a href="https://subreddit-memes.vercel.app/" target="_blank">
   <img src="https://subreddit-memes.vercel.app/api/meme?a=1" width="100%" />
-</a>
+</a> -->
 
 <!-- <img src="https://subreddit-memes.vercel.app/api/meme" width="350px"/>
 <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme" width="350px"/> -->
