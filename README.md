@@ -23,7 +23,7 @@
 </div>
 
 ### ✍️ Random Dev Meme
-![](https://subreddit-memes.vercel.app)
+<img src="https://your-project-name.vercel.app/api/meme" width="350px"/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
