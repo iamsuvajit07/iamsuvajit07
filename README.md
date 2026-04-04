@@ -27,10 +27,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme?t=1" width="450" height="500"/>
+      <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme" width="450" height="500"/>
     </td>
     <td>
-      <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme?t=2" width="450" height="500"/>
+      <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme?t=1" width="450" height="500"/>
     </td>
   </tr>
 </table>
