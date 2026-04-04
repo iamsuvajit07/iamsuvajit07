@@ -17,13 +17,14 @@
 [![](https://visitcount.itsvg.in/api?id=iamsuvajit07&icon=7&color=5)](https://visitcount.itsvg.in)
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=iamsuvajit07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=fa[...] 
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=iamsuvajit07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=fa[...]  
   <img src="https://streak-stats.demolab.com?user=iamsuvajit07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsuvajit07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" [...] 
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsuvajit07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" [...]  
 </div>
 
 ### ✍️ Random Dev Meme
-[Check out my subreddit memes app](https://subreddit-memes.vercel.app/)
+<img src="https://api.imgflip.com/caption_image" width="350px"/>
+<img src="https://imgur.com/random" width="350px"/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
