@@ -32,6 +32,12 @@
 </div> -->
 <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme"/>
 <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme?x=456"/>
+
+<a href="https://subreddit-memes.vercel.app/" target="_blank">
+  <img src="https://subreddit-memes.vercel.app/api/meme?a=1" width="100%" />
+</a>
+
+<p align="center">🔄 Click to get a new meme</p>
 <!-- <img src="https://subreddit-memes.vercel.app/api/meme" width="350px"/>
 <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme" width="350px"/> -->
 
