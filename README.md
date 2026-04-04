@@ -25,17 +25,14 @@
 ### 🤣🤣🤣 Random Dev Memes
 
 <div align="center">
-
   <a href="https://subreddit-memes.vercel.app/" target="_blank">
     <img src="https://subreddit-memes.vercel.app/api/meme?a=1" width="100%" />
   </a>
   <p>⬆️ Meme 1</p>
-
   <a href="https://subreddit-memes.vercel.app/" target="_blank">
-    <img src="https://random-xkcd-url.glitch.me/random-xkcd" width="100%" />
-  </a>
+  <img src="https://subreddit-memes.vercel.app/api/meme?a=1" width="100%" />
+   </a>
   <p>⬆️ Meme 2</p>
-
 </div>
 
 <!-- <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme"/>
