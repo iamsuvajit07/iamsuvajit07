@@ -29,9 +29,9 @@
   <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme" width="100%"/>
     </a>
       <div style="height:30px;"> Meme 1 - ↑ </div>
-    <a href="https://subreddit-memes.vercel.app/" target="_blank">
-  <img src="https://api.codetabs.com/v1/proxy/?quest=https://subreddit-memes.vercel.app/api/meme?t=1" width="100%"/>
-    </a>
+ <a href="https://subreddit-memes.vercel.app/" target="_blank">
+  <img src="https://subreddit-memes.vercel.app/api/meme?a=1" width="100%" />
+</a>
         <div style="height:30px;"> Meme 2 - ↑ </div>
 </div>
 
